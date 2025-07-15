@@ -41,5 +41,7 @@ Common topics in the CIIR to tag your repo with include:
 - precision-agriculture 
 - etc.
 
+## Template
+A good starting point is the [CDACS Github Template, linked here](https://github.com/UofI-CDACS/CDACS-Template) which you can clone and fill out. 
 
 ## Tutorials 
